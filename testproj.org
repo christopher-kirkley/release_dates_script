@@ -1,0 +1,46 @@
+
+* TIMELINE
+** TODO Pre-NRI Deadline
+  DEADLINE: <test>** TODO Production Check-in
+  DEADLINE: <test>** TODO NRI Deadline
+  DEADLINE: <test>** TODO NRI Upload & International Solicitation
+  DEADLINE: <test>** TODO SD Product Due
+  DEADLINE: <test>** TODO NOTES
+  DEADLINE: <test>** TODO 2021 Digital Release Week
+  DEADLINE: <test>** TODO SD Digital Product Pitching Deadline
+  DEADLINE: <test>
+* TIMELINE
+** TODO Pre-NRI Deadline
+  DEADLINE: <test>
+** TODO Production Check-in
+  DEADLINE: <test>
+** TODO NRI Deadline
+  DEADLINE: <test>
+** TODO NRI Upload & International Solicitation
+  DEADLINE: <test>
+** TODO SD Product Due
+  DEADLINE: <test>
+** TODO NOTES
+  DEADLINE: <test>
+** TODO 2021 Digital Release Week
+  DEADLINE: <test>
+** TODO SD Digital Product Pitching Deadline
+  DEADLINE: <test>
+
+* TIMELINE
+** TODO Pre-NRI Deadline
+  DEADLINE: <2021-05-21 Tue>
+** TODO Production Check-in
+  DEADLINE: <2021-05-21 Tue>
+** TODO NRI Deadline
+  DEADLINE: <2021-05-21 Tue>
+** TODO NRI Upload & International Solicitation
+  DEADLINE: <2021-05-21 Tue>
+** TODO SD Product Due
+  DEADLINE: <2021-05-21 Tue>
+** TODO NOTES
+  DEADLINE: <2021-05-21 Tue>
+** TODO 2021 Digital Release Week
+  DEADLINE: <2021-05-21 Tue>
+** TODO SD Digital Product Pitching Deadline
+  DEADLINE: <2021-05-21 Tue>
