@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import pyperclip
 
 release_date = input('Choose a release date DD/MM/YY: ')
 
@@ -9,8 +10,15 @@ try:
     dates_df = df.loc[release_date]
     dates = dates_df.to_dict()
 
+    output = ""
+
     for key, value in dates.items():
         print(f'{key}: {value}')
+        output = output + f"{key}: {value}\n"
+    
+    pyperclip.copy(output)
+
+
 except KeyError:
     print('Invalid date')
 
